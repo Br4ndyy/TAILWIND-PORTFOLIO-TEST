@@ -13,6 +13,9 @@ module.exports = {
         kape: '#CBBCA9',
         mangga: '#F5D087',
         maitim: '#000000'
+      },
+      fontFamily: {
+        primary: 'Montserrat'
       }
     },
   },

@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @font-face{
-	font-family: Montserrat;
+	font-family: Montserrat__I;
 	src: url("../fonts/Montserrat-Italic-VariableFont_wght.woff")
 }
 @font-face{
-	font-family: Montserrat1;
+	font-family: Montserrat;
 	src: url("../fonts/Montserrat-VariableFont_wght.woff")
 }

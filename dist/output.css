@@ -534,14 +534,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-@font-face{
+.font-primary {
   font-family: Montserrat;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+@font-face{
+  font-family: Montserrat__I;
 
   src: url("../fonts/Montserrat-Italic-VariableFont_wght.woff")
 }
 
 @font-face{
-  font-family: Montserrat1;
+  font-family: Montserrat;
 
   src: url("../fonts/Montserrat-VariableFont_wght.woff")
 }
