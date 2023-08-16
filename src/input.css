@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+	font-family: Montserrat;
+	src: url("../fonts/Montserrat-Italic-VariableFont_wght.woff")
+}
+@font-face{
+	font-family: Montserrat1;
+	src: url("../fonts/Montserrat-VariableFont_wght.woff")
+}
